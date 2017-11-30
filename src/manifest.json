@@ -1,9 +1,9 @@
 {
   "name": "PW-Angular",
   "short_name": "PW-Angular",
-  "theme_color": "#ffffff",
+  "theme_color": "#209FF1",
   "background_color": "#ffffff",
-  "start_url": "/",
+  "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
