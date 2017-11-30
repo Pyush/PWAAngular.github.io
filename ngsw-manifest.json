@@ -2,14 +2,14 @@
   "static": {
     "urls": {
       "https://pyush.github.io/PWAAngular.github.io/polyfills.550f19d7d5888922986b.bundle.js": "94aa04458859c055364cd2f40f9d09e45e9bf808",
-      "https://pyush.github.io/PWAAngular.github.io/main.afa5a600c91ca5b903e9.bundle.js": "45d45b4527387993e75f0de3838ea86eabb70314",
+      "https://pyush.github.io/PWAAngular.github.io/main.4942f8c3b96f4b35c910.bundle.js": "c23ef0c50825f03efaa6dc29b40a646f39139ace",
       "https://pyush.github.io/PWAAngular.github.io/sw-register.c3a9f56ebf829a0880d3.bundle.js": "6c5694fa18f55de662ff331e4d69d4521033fd80",
       "https://pyush.github.io/PWAAngular.github.io/vendor.80197ac4c8efc7400ae4.bundle.js": "454e869a6d6381af5ceaecd54a823f4ca8e1dde9",
-      "https://pyush.github.io/PWAAngular.github.io/inline.5fb8361fc1cfa6da971b.bundle.js": "28e3569b4e7d6944b5a789ce8b6599e970b4b284",
+      "https://pyush.github.io/PWAAngular.github.io/inline.adf4ada3886ce11df36e.bundle.js": "eaa692f02ed37f78124dacfc21377050e6dc934f",
       "https://pyush.github.io/PWAAngular.github.io/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-256x256.png": "03a530512a786f42309d456941d23399aacbb55b",
-      "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-192x192.png": "3822f79b5750b2af35a5b526461bc64bce2ed37b",
+      "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-144x144.png": "b7a5e5b8be1c84621d7073713c71513bd33f9f52",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-36x36.png": "6521305c60808437060303e4975ec380fc7ae073",
+      "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-256x256.png": "03a530512a786f42309d456941d23399aacbb55b",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-384x384.png": "e2c7964e2aaeb7c91cd8154264ccbdd614b3d61b",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-48x48.png": "6c536acbb8d8c37d0c44c039079f47eea3423798",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-512x512.png": "21051b61ad2820282fe668701d3932d5d223b2ce",
@@ -20,6 +20,7 @@
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/apple-touch-icon-144x144.png": "7a4a23fae5c07e02189a0fc73ed9f09afcdbdfff",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/apple-touch-icon-152x152.png": "5a4dae2a416a49d6812898b679c5039d24b71f98",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/apple-touch-icon-180x180.png": "b49d5d34db0f4f16a00f80e35274172f0eb3e411",
+      "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-192x192.png": "3822f79b5750b2af35a5b526461bc64bce2ed37b",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/apple-touch-icon-57x57.png": "c2c10861412e1b4c343b8e6ff6dbce5f3abfa093",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/apple-touch-icon-60x60.png": "c2635c098f72ce48fc11c8c2002e25458f6a9c86",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/apple-touch-icon-72x72.png": "08ead78f22474b28e5de9f1584bf6f0b8e539604",
@@ -37,8 +38,7 @@
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/mstile-70x70.png": "637e96e2701eaab2a679737d606bc6dab4675f58",
       "https://pyush.github.io/PWAAngular.github.io/assets/icons/safari-pinned-tab.svg": "bef4821879f0ea1cdffbde1fd03c9aa4fdb01095",
       "https://pyush.github.io/PWAAngular.github.io/favicon.ico": "ac3ab69e7c688218b5cc5e2cc0cdd76202143d14",
-      "https://pyush.github.io/PWAAngular.github.io/assets/icons/android-chrome-144x144.png": "b7a5e5b8be1c84621d7073713c71513bd33f9f52",
-      "https://pyush.github.io/PWAAngular.github.io/index.html": "67a60e5b97c8c8eb161632e4beb28c3bb2db3115"
+      "https://pyush.github.io/PWAAngular.github.io/index.html": "451b082def34f12269b709538f9709cf4278e678"
     },
     "_generatedFromWebpack": true
   }
